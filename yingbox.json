@@ -1,0 +1,54 @@
+{
+  "sites": [
+    {
+      "key": "无水印采集",
+      "name": "🐝┃纯净┃采集",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list"
+    },
+    {
+      "key": "新4K",
+      "name": "🎬┃新4K┃影视",
+      "type": 1,
+      "api": "http://cmsyun2.qijiyun.vip/api.php/provide/vod/"
+    },
+    {
+      "key": "360资源",
+      "name": "⏱┃三六┃资源",
+      "type": 1,
+      "api": "https://360zy.com/api.php/seaxml/vod/",
+      "searchable": 1
+    },
+    {
+      "key": "量子资源",
+      "name": "🥑┃量子┃资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1
+    },
+    {
+      "key": "非凡资源",
+      "name": "🥗┃非凡┃资源",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1
+    }
+  ],
+  "lives": [
+    {
+      "name": "migu(优)",
+      "type": 0,
+      "url": "http://migu.lengye.top/interfaceTXT.txt"
+    },
+    {
+      "name": "ZBDS",
+      "type": 0,
+      "url": "https://live.zbds.top/tv/iptv4.txt"
+    },
+    {
+      "name": "简单TV",
+      "type": 0,
+      "url": "http://iptv.ruyitv.cc/m3u/tv.txt"
+    }
+  ]
+}
